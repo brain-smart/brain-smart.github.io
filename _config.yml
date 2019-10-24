@@ -5,4 +5,5 @@ logo: images/bsmartface.jpg
 show_downloads: "true"
 github:
   is_project_page: true
+  is_user_page: false
   
